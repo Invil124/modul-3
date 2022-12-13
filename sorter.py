@@ -4,7 +4,7 @@ import os.path
 from threading import Thread
 import os
 
-PATH = Path(r"C:\Users\Admin\Desktop\garvbige")
+PATH = Path(r"") # PATH водиться тут !
 NEW_DIRECTORY = ("images", "video", "documents", "archive", "unknown")
 THREADS = []
 
